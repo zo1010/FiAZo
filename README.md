@@ -1,3 +1,9 @@
 # FiAZo
- TP1 Machine learnig
-# N°15: RATOVONARIVO Zo Michaël (ESIIA 5)
+TP1 Machine learning
+
+## Membre du groupe
+
+| Nom                   | Prénom        | Numero | Filière |
+| --------------------- | ------------- | ------ | ------- |
+| RATOVONARIVO | Zo Michaël | 15 | ESIIA 5 |
+| RATIA ANDRIAFITAHIANA | Joseph Tellia | 19     | ESIIA 5 |
