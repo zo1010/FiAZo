@@ -339,5 +339,3 @@ print(f"""
 - Validation croisée pour une évaluation plus robuste
 - Collecte de features supplémentaires (historique familial, etc.)
 """)
-
-print("\n✅ Pipeline de prédiction du diabète terminé avec succès!")
